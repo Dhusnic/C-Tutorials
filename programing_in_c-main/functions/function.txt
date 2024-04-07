@@ -1,0 +1,8 @@
+void display()//function defnition
+     {
+         int a=10;//local variable
+         printf("%d",a);
+     }
+
+void - no return
+int - return is needed(return 0)
